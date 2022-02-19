@@ -7,11 +7,9 @@ body {
     'Open Sans', 'Helvetica Neue', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  /* background-color: #fafafa; */
   color: #212121;
   line-height: 1.5;
-  background: url(https://img5.goodfon.ru/original/1920x1080/a/4d/karta-mira-zemlia-materik-tsarapiny.jpg)
-    no-repeat;
+  background: url(../images/karta-mira-zemlia-materik-tsarapiny.jpg) no-repeat;
   background-size: cover;
   padding: 30px;
 }
